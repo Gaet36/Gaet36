@@ -1,4 +1,4 @@
-### Hi everyone 👋
+### Hello everyone 👋
 
 <!--
 **Gaet36/Gaet36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
