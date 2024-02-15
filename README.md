@@ -15,7 +15,7 @@ Je m'appelle Gaëtan Maugrion, je suis actuellement étudiant en 2ème année de
   - hard_skill_4
 
 #### Mes projets universitaires :
-Création d'un menu de Mini-jeux en Python :
+<u>Création d'un menu de Mini-jeux en Python :</u>
 
 Durant ce projet de SAE* que nous avons mis en oeuvre durant le début de ma 1ère année de BUT, nous avons du réaliser en binôme un        ensemble de 4 mini-jeux (devinettes, allumettes, morpion et puissance 4). Le développement de ces 4 mini-jeux devait se faire en          console en Python via le logiciel Visual Studio Code.
 
