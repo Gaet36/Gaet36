@@ -8,5 +8,6 @@ Je m'appelle Gaëtan Maugrion, je suis actuellement étudiant en 2ème année de
   - softskill_3
   - softskill_4
 
+
 Mes projets universitaires en cours :
 
