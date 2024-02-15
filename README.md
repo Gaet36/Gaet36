@@ -8,6 +8,15 @@ Je m'appelle Gaëtan Maugrion, je suis actuellement étudiant en 2ème année de
   - soft_skill_3
   - soft_skill_4
 
+#### Hard skills :
+  - hard_skill_1
+  - hard_skill_2
+  - hard_skill_3
+  - hard_skill_4
 
-Mes projets universitaires en cours :
+
+Mes projets universitaires :
+
+
+Mes projets personnels :
 
