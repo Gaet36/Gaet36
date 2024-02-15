@@ -22,6 +22,7 @@ Durant ce projet de SAE* que nous avons mis en oeuvre durant le début de ma 1è
 
 projet_2
 
+*SAE : Situtation d'Auto-Evaluation : Cela se résume à la réalisation de différents projets en binôme ou plus visant à mettre en place nos différentes connaissances sur des plages horaires de 30h à 300h de projet
 #### Mes projets personnels :
 projet_1
 projet_2
