@@ -1,5 +1,9 @@
 ### Hello everyone 👋
 
+Mes projets universitaires en cours :
+
+
+
 <!--
 **Gaet36/Gaet36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
