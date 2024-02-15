@@ -16,7 +16,10 @@ Je m'appelle Gaëtan Maugrion, je suis actuellement étudiant en 2ème année de
 
 
 Mes projets universitaires :
-
+  - projet_1
+  - projet_2
 
 Mes projets personnels :
+  - projet_1
+  - projet_2
 
