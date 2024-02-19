@@ -6,17 +6,21 @@ Je m'appelle Gaëtan MAUGRION et je suis actuellement étudiant en 2ème année 
 
 ## 💻 Langages de programmation utilisés
 
-- Python 🐍 
-- JavaScript (Node.js, React) 🌐
-- C# (Unity, .NET) 🔲
-- Java (Spring Boot) ☕
-- SQL 🛢
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> Python 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> JavaScript (Node.js, React)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="15" height="15"/> C/C++ (Unity, .NET)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/> Java (Spring Boot)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="15" height="15"/> SQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="15" height="15"/> CSS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15"/> HTML
+-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="15" height="15"/> PHP
 
 ## 🌟 Qualités
 
 - **Analytique** 🧠: Capable de résoudre des problèmes complexes grâce à une approche méthodique.
 - **Créatif** 🎨: Toujours à la recherche de nouvelles idées pour améliorer les projets.
 - **Collaboratif** 🤝: Excellent travail en équipe, prêt à apprendre des autres et à partager mes connaissances.
+- **Sérieux** ✅: Démontre une grande fiabilité et un engagement profond envers mes responsabilités, garantissant que le travail est fait avec diligence et intégrité
 
 ## 🚀 Mes projets
 
