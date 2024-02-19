@@ -1,31 +1,50 @@
-### Bonjour tout le monde 👋
+# Bienvenue sur mon profil GitHub 👋
 
-Je m'appelle Gaëtan Maugrion, je suis actuellement étudiant en 2ème année de BUT informatique. Dans ce readme, je vais me présentez rapidement à vous en vous exposant mes différents soft skills et hard skills acquis à travers les différents projets que j'ai pu réaliser. 
+## 🤵 Qui suis-je?
 
-#### Soft skills :
-  - soft_skill_1
-  - soft_skill_2
-  - soft_skill_3
-  - soft_skill_4
+Je m'appelle Gaëtan MAUGRION et je suis actuellement étudiant en 2ème année de BUT informatique à l'IUT du Limousin. Je suis un développeur passionné, constamment à la recherche de nouvelles connaissances et compétences dans le domaine de l'informatique. Mes études à l'IUT du Limousin m'ont permis d'acquérir une solide base théorique ainsi que des compétences pratiques en développement logiciel, me préparant ainsi à relever les défis technologiques actuels et futurs. Mon engagement dans mes projets universitaires et personnels témoigne de ma passion pour l'informatique et mon désir de contribuer à l'avancement de la technologie.
 
-#### Hard skills :
-  - hard_skill_1
-  - hard_skill_2
-  - hard_skill_3
-  - hard_skill_4
+## 💻 Langages de programmation utilisés
 
-#### Mes projets universitaires :
-Création d'un menu de Mini-jeux en Python :
+- Python 🐍 
+- JavaScript (Node.js, React) 🌐
+- C# (Unity, .NET) 🔲
+- Java (Spring Boot) ☕
+- SQL 🛢
 
-Durant ce projet de SAE* que nous avons mis en oeuvre durant le début de ma 1ère année de BUT, nous avons du réaliser en binôme un        ensemble de 4 mini-jeux (devinettes, allumettes, morpion et puissance 4). Le développement de ces 4 mini-jeux devait se faire en          console en Python via le logiciel Visual Studio Code.
+## 🌟 Qualités
 
-Développement d'une application de visualisation de données pour Legrand :
+- **Analytique** 🧠: Capable de résoudre des problèmes complexes grâce à une approche méthodique.
+- **Créatif** 🎨: Toujours à la recherche de nouvelles idées pour améliorer les projets.
+- **Collaboratif** 🤝: Excellent travail en équipe, prêt à apprendre des autres et à partager mes connaissances.
 
-Ce projet SAE* est actuellement en cours de réalisation. En effet ce projet est un gros projet qui se mets en place sur l'ensemble de notre 2ème année de BUT, nous réalisons ce projet en groupe de 4 personnes. Durant ce projet nous avons pour but de créer une application reliée à une base de données de chez Legrand pour nous permettre de visualiser les données en fonction de plusieurs facteurs sélectionnés au préalable. Nous devons aussi pouvoir exporter ces données sous format CSV. Ce projet est le projet qui sleon moi est le plus intéréssant de tous car c'est un projet très professionalisant dans le sens où nos sommes en lien direct avec une grande entretprise comme Legrand.
+## 🚀 Mes projets
 
-*SAE : Situtation d'Auto-Evaluation : Cela se résume à la réalisation de différents projets en binôme ou plus visant à mettre en place nos différentes connaissances sur des plages horaires de 30h à 300h de projet
+Voici quelques projets sur lesquels j'ai travaillé :
 
-#### Mes projets personnels :
-projet_1
-projet_2
+- [Nom du Projet 1](URL_du_projet_1) - Une brève description de ce projet.
+- [Nom du Projet 2](URL_du_projet_2) - Une brève description de ce projet.
+- [Nom du Projet 3](URL_du_projet_3) - Une brève description de ce projet.
 
+## 🎓 Projets universitaires
+
+Au cours de mes études, j'ai participé à plusieurs projets universitaires qui m'ont permis de développer mes compétences techniques et de travail en équipe. Voici quelques exemples :
+
+- **Projet de recherche en intelligence artificielle** : Développement d'un algorithme de machine learning pour l'analyse de données médicales.
+- **Projet de développement logiciel** : Création d'une application mobile pour la gestion de tâches universitaires.
+- **Projet en ingénierie logicielle** : Conception et développement d'un système de gestion de bibliothèque en ligne.
+
+Ces projets ont été des opportunités incroyables pour moi d'appliquer la théorie à la pratique et de contribuer à des solutions ayant un impact réel.
+
+## 📚 Centres d'intérêt
+
+- **Technologie** 💡: Passionné par les dernières innovations et leur impact sur la société.
+- **Musique** 🎵: Je joue de plusieurs instruments et j'apprécie découvrir de nouveaux genres.
+- **Voyage** 🌍: Explorateur dans l'âme, j'aime découvrir de nouvelles cultures et paysages.
+
+---
+
+N'hésitez pas à me contacter pour toute collaboration ou question !
+
+- 📫 Comment me joindre: [Votre adresse email](mailto:votre_email@example.com)
+- 🔗 LinkedIn: [Votre profil LinkedIn](URL_de_votre_profil_LinkedIn)
