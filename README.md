@@ -35,8 +35,8 @@ Ces projets ont été des opportunités incroyables pour moi d'appliquer la thé
 ## 📚 Centres d'intérêt
 
 - **Technologie** 💡: Passionné par les dernières innovations et leur impact sur la société.
-- **Musique** 🎵: Je joue de plusieurs instruments et j'apprécie découvrir de nouveaux genres.
-- **Voyage** 🌍: Explorateur dans l'âme, j'aime découvrir de nouvelles cultures et paysages.
+- **Musique** 🎵: J'apprécie écouter et découvrir de nouveaux genres musicaux.
+- **Voyage** 🌍: J'aime découvrir de nouveaux paysages que la France nous offre.
 
 ## ☎️ Contact
 N'hésitez pas à me contacter pour toute collaboration ou question !
