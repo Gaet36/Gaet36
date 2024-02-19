@@ -22,14 +22,6 @@ Je m'appelle Gaëtan MAUGRION et je suis actuellement étudiant en 2ème année 
 - **Collaboratif** 🤝: Excellent travail en équipe, prêt à apprendre des autres et à partager mes connaissances.
 - **Sérieux** ✅: Démontre une grande fiabilité et un engagement profond envers mes responsabilités, garantissant que le travail est fait avec diligence et intégrité
 
-## 🚀 Mes projets
-
-Voici quelques projets sur lesquels j'ai travaillé :
-
-- [Nom du Projet 1](URL_du_projet_1) - Une brève description de ce projet.
-- [Nom du Projet 2](URL_du_projet_2) - Une brève description de ce projet.
-- [Nom du Projet 3](URL_du_projet_3) - Une brève description de ce projet.
-
 ## 🎓 Projets universitaires
 
 Au cours de mes études, j'ai participé à plusieurs projets universitaires qui m'ont permis de développer mes compétences techniques et de travail en équipe. Voici quelques exemples :
@@ -46,9 +38,8 @@ Ces projets ont été des opportunités incroyables pour moi d'appliquer la thé
 - **Musique** 🎵: Je joue de plusieurs instruments et j'apprécie découvrir de nouveaux genres.
 - **Voyage** 🌍: Explorateur dans l'âme, j'aime découvrir de nouvelles cultures et paysages.
 
----
-
+## ☎️ Contact
 N'hésitez pas à me contacter pour toute collaboration ou question !
 
-- 📫 Comment me joindre: [Votre adresse email](mailto:votre_email@example.com)
-- 🔗 LinkedIn: [Votre profil LinkedIn](URL_de_votre_profil_LinkedIn)
+- 📫 Comment me joindre: [Mon mail :](gaetan.maugrion@etu.unilim.fr)
+- 🔗 LinkedIn: [Mon profil :](https://www.linkedin.com/in/ga%C3%ABtan-maugrion-b5b9262a1/)
