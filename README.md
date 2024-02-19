@@ -41,5 +41,5 @@ Ces projets ont été des opportunités incroyables pour moi d'appliquer la thé
 ## ☎️ Contact
 N'hésitez pas à me contacter pour toute collaboration ou question !
 
-- 📫 Comment me joindre: [Mon mail :](gaetan.maugrion@etu.unilim.fr)
-- 🔗 LinkedIn: [Mon profil :](https://www.linkedin.com/in/ga%C3%ABtan-maugrion-b5b9262a1/)
+- 📫 Comment me joindre: gaetan.maugrion@etu.unilim.fr
+- 🔗 LinkedIn: [mon profil](https://www.linkedin.com/in/ga%C3%ABtan-maugrion-b5b9262a1/)
